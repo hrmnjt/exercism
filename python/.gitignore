@@ -1,4 +1,3 @@
 # .gitignore for Python
 
 **/__pycache__/**
-
